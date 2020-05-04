@@ -1,5 +1,5 @@
 # Modificadores-ProgAPP
-Programa de modificadores
+Programa de modificadores #2 durante las Clases en Linea via Clasroom CoVID-19. del martes, 28 de abril de 2020 15:29:15 CDT
 
 
 								Licencia MIT, 
